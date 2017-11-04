@@ -9,6 +9,6 @@
 * [Il ruolo dell' Open Source nella Pubblica Amministrazione](il-ruolo-dellopen-source-nella-pubblica-amministrazione.md)
 * L'Open Source in Italia
 * Bibliografia
-* Autore della Tesina
+* Autore 
 * Note
 
