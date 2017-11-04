@@ -24,5 +24,17 @@ Ciò testimonia la sua completa e totale passione per questo pinguino che ha fat
 
 In seguito, l'OSDL si è combinato con l'**FSG \(Free Standards Group\)**, dando vita nel 2007 alla Linux Foundation dove oggi Torvalds lavora allo sviluppo del kernel Linux.
 
+## Curiosita'
+
+* Nel 2006 è stato incluso nella sezione "60 years of heroes" dall'edizione europea della rivista Time.
+
+* La mascotte di Linux, TUX, significa “Torvalds UniX”. La nascita di questa mascotte risale al 1996 quando uscì la versione 2.0 di Linux. Erano settimane che Linus si arrovellava per ideare un logo da associare al suo sistema operativo.
+
+Un weekend, Linus sua moglie e le loro due figlie andarono allo Zoo, e, giunti in prossimità del recinto con i pinguini, Linus infilò un dito nella rete, agitandolo, per cercare di destare l'attenzione di uno di essi e farlo avvicinare un pochino per permettere alle sue figlie di osservarlo più da vicino. Un pinguino si avvicinò al dito di Linus e gli diede una bella beccata. Durante il ritorno in auto la moglie di Linus gli disse: “Perché non usi un pinguino come mascotte di Linux?” Venne indetto su internet un concorso, i partecipanti dovevano disegnare il pinguino che sarebbe diventato la mascotte di Linux. Il vincitore fu Larry Ewing con il suo pinguino paffuto e dall'aria contenta, il logo venne disegnato usando il programma di elaborazione grafica open source GIMP. Secondo Jeff Ayers, Linus Torvalds ha una “fissazione per gli uccelli acquatici grassi e che non volano”. Inoltre Torvalds afferma di avere contratto la “pinguinite” dopo essere stato gentilmente mordicchiato da un pinguino: “La pinguinite ti tiene sveglio la notte a pensare ai pinguini e ti fa provare un grande senso di affetto verso di loro.” Torvalds stava cercando qualcosa di divertente e simpatico da associare a Linux e un pinguino un po' grasso che si siede dopo un pranzo abbondante ed una buona pinta di birra rispondeva perfettamente all'idea. Da notare i piedi arancioni che lo fanno somigliare ad un'anatra.
+
+* Finora sono state soprattutto Microsoft e Silicon Graphics, con i loro rispettivi sistemi operativi, ad equipaggiare le potentissime workstation grafiche con cui l'industria del divertimento realizza le animazioni più spettacolari del cinema digitale. Le cose sembrano però destinate a cambiare - e non poco - con una decisa svolta verso Linux. A cominciare è stata la DreamWorks, la società di produzione di Steven Spielberg, che ha cominciato ad utilizzare il sistema open source per il suo «Shrek», ultimo capolavoro del cinema d'animazione. Altro esempio proviene dalla Industrial Light & Magic, la divisione per il cinema digitale di George Lucas che ha già in programma di equipaggiare con Linux il suo enorme armamentario di macchine per il multimedia 3D \(Dal Wall Street Journal\).
+
+* Il libro “The 100 Most Influential Inventors of All Time” \(le 100 invenzioni più influenti di tutti i tempi\), pubblicato dalla prestigiosa Enciclopedia Britannica, vede Linus Torvalds tra le grandi personalità del calibro di Archimede, James Watt, Alessandro Volta, ecc…
+
 
 
