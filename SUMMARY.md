@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Il Free/Libre and Open Source Software](chapter1.md)
+
