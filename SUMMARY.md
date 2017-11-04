@@ -8,7 +8,7 @@
 * [Copyright e Copyleft](copyright-e-copyleft.md)
 * [Il ruolo dell' Open Source nella Pubblica Amministrazione](il-ruolo-dellopen-source-nella-pubblica-amministrazione.md)
 * L'Open Source in Italia
-* Bibliografia
+* [Bibliografia](bibliografia.md)
 * [Autore ](autore.md)
 * Note
 
