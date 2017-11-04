@@ -16,7 +16,26 @@ Il Software Libero rappresenta la libertà di eseguire, copiare, distribuire, st
 * **2 . La libertà di ridistribuire copie del programma in modo da aiutare il prossimo.**
 * **3. La libertà di migliorare il programma, e rilasciare i miglioramenti \(e versioni modificate in generale\) per il pubblico, in modo tale che tutta la comunità ne tragga beneficio. L'accesso al codice sorgente è un prerequisito per questo.**
 
+#### The Open Source Definition \(OSD\)
+
+Open source \(sorgente aperto\) non significa semplicemente accesso al codice sorgente. La distribuzione in termini di programmi open-source deve soddisfare i seguenti criteri:
+
+1. **Libera Ridistribuzione. **La licenza non può limitare alcuno dal vendere o donare i software come componente di una distribuzione di software aggregato che contenga programmi provenienti da sorgenti diverse. La licenza non potrà richiedere royalties[^2] o altri diritti per tale vendita.
+
+2. **Codice Sorgente. **Il programma deve includere codice sorgente e deve consentire la distribuzione tanto in codice sorgente che in forma compilata. Laddove una qualunque forma del prodotto non sia distribuita corredata del codice sorgente, devono essere disponibili mezzi ben pubblicizzati per scaricare il codice sorgente, senza costi addizionali, via Internet. Il codice sorgente deve essere la forma preferenziale nella quale un programmatore modifichi un programma. il codice sorgente deliberatamente obnubilato[^3], non è consentito. Forme intermedie come l'output di un preprocessore o di un traduttore non sono permesse.
+
+3. 
+
+
+
+
+
+
 
 
 [^1]:  Termine ibrido che indica contemporaneamente e collettivamente il software libero e quello a sorgente aperto. "FLOSS" fu creato da un progetto di Rishab Ghosh, e  divenne popolare dopo che la Commissione Europea nel giugno del 2001 condusse uno studio sulla materia. La "L" in FLOSS, vuole enfatizzare il significato di "libero" della parola "free", piuttosto che quello di "gratuito".
+
+[^2]:  Termine che indica il pagamento di un compenso al titolare di un brevetto o una proprietà intellettuale, con lo scopo di poter sfruttare quel bene per fini commerciali.
+
+[^3]:  Sinonimo di: annebbiato, offuscato, appannato, confuso, intorpidito, ottenebrato, stordito.
 
