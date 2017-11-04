@@ -7,6 +7,8 @@ Il fenomeno del [Free/Libre and Open Source Software \(FLOSS\)](http://flossproj
 
 I sostenitori dell' Open Source, termine coniato nel 1997 da Bruce Perens, Eric S. Raymond, Ockman e altri \(che pensavano di creare una sorta di lobby a favore di una ridefinizione ideologica del software libero, evidenziandone i vantaggi pratici per le aziende\), invece, insistono sulle caratteristiche operative del software, che consistono nel permettere l'accesso al codice sorgente e quindi di poter apportare modifiche allo stesso, per dar vita a software più potenti e affidabili, senza fornire motivazioni etiche. A questo scopo, l'**Open Source Initiave \(OSI\) **definì, ad opera di Bruce Perens, i criteri in grado di determinare la natura libera o proprietaria di una licenza di software attraverso ["The Open Source Definition"](http://www.opensource.org/docs/osd). Di seguito verranno illustrate nel dettaglio le due definizioni.
 
+![](/assets/tim-o_reilly-and-richard-stallman.png)
+
 #### The Free Software Definition \(FSD\)
 
 Il Software Libero rappresenta la libertà di eseguire, copiare, distribuire, studiare,cambiare e migliorare il software. Più precisamente, esso si riferisce a quattro tipi di libertà, per gli utenti del software:

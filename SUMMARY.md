@@ -7,8 +7,7 @@
 * Richards Stallman e il movimento per il Software Libero
 * [Copyright e Copyleft](copyright-e-copyleft.md)
 * [Il ruolo dell' Open Source nella Pubblica Amministrazione](il-ruolo-dellopen-source-nella-pubblica-amministrazione.md)
-* L'Open Source in Italia
+* [L'Open Source in Italia](lopen-source-in-italia.md)
 * [Bibliografia](bibliografia.md)
 * [Autore ](autore.md)
-* Note
 
