@@ -9,7 +9,7 @@ I sostenitori dell' Open Source, termine coniato nel 1997 da Bruce Perens, Eric 
 
 ![](/assets/tim-o_reilly-and-richard-stallman.png)
 
-#### The Free Software Definition \(FSD\)
+#### The Free Software Definition \(FSD\) 
 
 Il Software Libero rappresenta la libertà di eseguire, copiare, distribuire, studiare,cambiare e migliorare il software. Più precisamente, esso si riferisce a quattro tipi di libertà, per gli utenti del software:
 
