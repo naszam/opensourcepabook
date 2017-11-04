@@ -11,10 +11,10 @@ I sostenitori dell' Open Source, termine coniato nel 1997 da Bruce Perens, Eric 
 
 Il Software Libero rappresenta la libertà di eseguire, copiare, distribuire, studiare,cambiare e migliorare il software. Più precisamente, esso si riferisce a quattro tipi di libertà, per gli utenti del software:
 
-* **0 . La liberta' di eseguire il programma per qualsiasi scopo.**
-* **1 . La libertà di studiare come funziona il programma e di adattarlo alle proprie necessità. L'accesso al codice sorgente è un prerequisito per questo.**
-* **2 . La libertà di ridistribuire copie del programma in modo da aiutare il prossimo.**
-* **3. La libertà di migliorare il programma, e rilasciare i miglioramenti \(e versioni modificate in generale\) per il pubblico, in modo tale che tutta la comunità ne tragga beneficio. L'accesso al codice sorgente è un prerequisito per questo.**
+* _0 . La liberta' di eseguire il programma per qualsiasi scopo._
+* _1 . La libertà di studiare come funziona il programma e di adattarlo alle proprie necessità. L'accesso al codice sorgente è un prerequisito per questo._
+* _2 . La libertà di ridistribuire copie del programma in modo da aiutare il prossimo._
+* _3. La libertà di migliorare il programma, e rilasciare i miglioramenti \(e versioni modificate in generale\) per il pubblico, in modo tale che tutta la comunità ne tragga beneficio. L'accesso al codice sorgente è un prerequisito per questo._
 
 #### The Open Source Definition \(OSD\)
 
@@ -25,14 +25,6 @@ Open source \(sorgente aperto\) non significa semplicemente accesso al codice so
 2. **Codice Sorgente. **Il programma deve includere codice sorgente e deve consentire la distribuzione tanto in codice sorgente che in forma compilata. Laddove una qualunque forma del prodotto non sia distribuita corredata del codice sorgente, devono essere disponibili mezzi ben pubblicizzati per scaricare il codice sorgente, senza costi addizionali, via Internet. Il codice sorgente deve essere la forma preferenziale nella quale un programmatore modifichi un programma. il codice sorgente deliberatamente obnubilato[^3], non è consentito. Forme intermedie come l'output di un preprocessore o di un traduttore non sono permesse.
 
 3. 
-
-
-
-
-
-
-
-
 [^1]:  Termine ibrido che indica contemporaneamente e collettivamente il software libero e quello a sorgente aperto. "FLOSS" fu creato da un progetto di Rishab Ghosh, e  divenne popolare dopo che la Commissione Europea nel giugno del 2001 condusse uno studio sulla materia. La "L" in FLOSS, vuole enfatizzare il significato di "libero" della parola "free", piuttosto che quello di "gratuito".
 
 [^2]:  Termine che indica il pagamento di un compenso al titolare di un brevetto o una proprietà intellettuale, con lo scopo di poter sfruttare quel bene per fini commerciali.
