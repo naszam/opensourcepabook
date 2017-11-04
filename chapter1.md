@@ -24,10 +24,25 @@ Open source \(sorgente aperto\) non significa semplicemente accesso al codice so
 
 2. **Codice Sorgente. **Il programma deve includere codice sorgente e deve consentire la distribuzione tanto in codice sorgente che in forma compilata. Laddove una qualunque forma del prodotto non sia distribuita corredata del codice sorgente, devono essere disponibili mezzi ben pubblicizzati per scaricare il codice sorgente, senza costi addizionali, via Internet. Il codice sorgente deve essere la forma preferenziale nella quale un programmatore modifichi un programma. il codice sorgente deliberatamente obnubilato[^3], non è consentito. Forme intermedie come l'output di un preprocessore o di un traduttore non sono permesse.
 
-3. 
-[^1]:  Termine ibrido che indica contemporaneamente e collettivamente il software libero e quello a sorgente aperto. "FLOSS" fu creato da un progetto di Rishab Ghosh, e  divenne popolare dopo che la Commissione Europea nel giugno del 2001 condusse uno studio sulla materia. La "L" in FLOSS, vuole enfatizzare il significato di "libero" della parola "free", piuttosto che quello di "gratuito".
+3. **Opere Derivate. **La licenza deve permettere modifiche e opere derivate, e deve consentire loro di essere distribuiti con le stesse condizioni della licenza del software originale.
+
+4. **Integrità del Codice Sorgente dell'Autore. **La licenza può proibire che il codice sorgente venga distribuito in forma modificata solo se la licenza consente la distribuzione di “patch file” con il codice sorgente con lo scopo di modificare il programma durante l'installazione. La licenza deve esplicitamente permettere la distribuzione del software costruito con codice sorgente modificato. La licenza può richiedere che i lavori derivati abbiano un nome o versione diversi dal software originale.
+
+5. **Nessuna Discriminazione contro Persone o Gruppi. **La licenza non deve discriminare alcuna persona o gruppo di persone.
+
+6. **Nessuna Discriminazione contro Campi d'Applicazione. **La licenza non deve proibire ad alcuno l’uso del programma in uno specifico campo o per un determinato proposito. Per esempio, non può impedire che il programma venga usato per scopi commerciali o nella ricerca genetica.
+
+7. **Distribuzione della Licenza. **I diritti allegati al programma devono applicarsi a tutti coloro i quali il programma sia redistribuito, senza la necessità dell'emissione di una licenza aggiuntiva da parte dei licenziatari.
+
+8. **La Licenza non Deve Essere Specifica di un Prodotto. **I diritti allegati al programma non devono dipendere dall'appartenenza di quel software ad una particolare distribuzione software. Se il programma è estratto da quella distribuzione e usato o distribuito entro i termini della licenza del programma stesso, tutte le parti distribuite del programma dovranno avere gli stessi diritti che vengono garantiti alla distribuzione software originale.
+
+9. **La Licenza non Deve Porre Restrizioni su Altro Software. **La licenza non deve porre restrizioni ad altro software che sia distribuito insieme al software licenziato. Ad esempio, la licenza non dovrà insistere sul fatto che tutti gli altri programmi distribuiti sugli stessi supporti siano software open-source.
+
+10. **Licenza Deve essere Tecnologicamente Neutrale. **Nessuna disposizione della licenza può essere basata su una tecnologia o stile di interfaccia. Le licenze GNU-GPL, BSD, X Consortium e Artistica sono esempi di licenze da considerarsi conformi alla Open Source Definition. Altrettanto dicasi della MPL.
 
 [^2]:  Termine che indica il pagamento di un compenso al titolare di un brevetto o una proprietà intellettuale, con lo scopo di poter sfruttare quel bene per fini commerciali.
 
 [^3]:  Sinonimo di: annebbiato, offuscato, appannato, confuso, intorpidito, ottenebrato, stordito.
+
+[^1]:  Termine ibrido che indica contemporaneamente e collettivamente il software libero e quello a sorgente aperto. "FLOSS" fu creato da un progetto di Rishab Ghosh, e  divenne popolare dopo che la Commissione Europea nel giugno del 2001 condusse uno studio sulla materia. La "L" in FLOSS, vuole enfatizzare il significato di "libero" della parola "free", piuttosto che quello di "gratuito".
 
