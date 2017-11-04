@@ -7,5 +7,16 @@ Il fenomeno del [Free/Libre and Open Source Software \(FLOSS\)](http://flossproj
 
 I sostenitori dell' Open Source, termine coniato nel 1997 da Bruce Perens, Eric S. Raymond, Ockman e altri \(che pensavano di creare una sorta di lobby a favore di una ridefinizione ideologica del software libero, evidenziandone i vantaggi pratici per le aziende\), invece, insistono sulle caratteristiche operative del software, che consistono nel permettere l'accesso al codice sorgente e quindi di poter apportare modifiche allo stesso, per dar vita a software più potenti e affidabili, senza fornire motivazioni etiche. A questo scopo, l'**Open Source Initiave \(OSI\) **definì, ad opera di Bruce Perens, i criteri in grado di determinare la natura libera o proprietaria di una licenza di software attraverso ["The Open Source Definition"](http://www.opensource.org/docs/osd). Di seguito verranno illustrate nel dettaglio le due definizioni.
 
+#### The Free Software Definition \(FSD\)
+
+Il Software Libero rappresenta la libertà di eseguire, copiare, distribuire, studiare,cambiare e migliorare il software. Più precisamente, esso si riferisce a quattro tipi di libertà, per gli utenti del software:
+
+* **0 . La liberta' di eseguire il programma per qualsiasi scopo.**
+* **1 . La libertà di studiare come funziona il programma e di adattarlo alle proprie necessità. L'accesso al codice sorgente è un prerequisito per questo.**
+* **2 . La libertà di ridistribuire copie del programma in modo da aiutare il prossimo.**
+* **3. La libertà di migliorare il programma, e rilasciare i miglioramenti \(e versioni modificate in generale\) per il pubblico, in modo tale che tutta la comunità ne tragga beneficio. L'accesso al codice sorgente è un prerequisito per questo.**
+
+
+
 [^1]:  Termine ibrido che indica contemporaneamente e collettivamente il software libero e quello a sorgente aperto. "FLOSS" fu creato da un progetto di Rishab Ghosh, e  divenne popolare dopo che la Commissione Europea nel giugno del 2001 condusse uno studio sulla materia. La "L" in FLOSS, vuole enfatizzare il significato di "libero" della parola "free", piuttosto che quello di "gratuito".
 
