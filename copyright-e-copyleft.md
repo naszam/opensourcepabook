@@ -63,9 +63,39 @@ E' quel software proprietario gratuito, del quale viene reso pubblico il codice 
 
 E' quel software proprietario che può essere ridistribuito, ma per il quale viene richiesto un pagamento dopo un periodo di prova determinato \(es. le demo dei software proprietari\).
 
-Un particolare tipo di software è il _**Software Commerciale  **_che è tale solo in quanto viene venduto per ricavarne un profitto. E' importante evitare di confondere software proprietario con il software commerciale che non sono la stessa cosa. Infatti può esistere software non-libero che non è nemmeno commerciale \(es. software freeware\).
+Un particolare tipo di software è il **Software Commerciale **che è tale solo in quanto viene venduto per ricavarne un profitto. E' importante evitare di confondere software proprietario con il software commerciale che non sono la stessa cosa. Infatti può esistere software non-libero che non è nemmeno commerciale \(es. software freeware\).
 
 Di seguito verranno illustrate alcune delle licenze più diffuse:
+
+* **GNU General Public License \(GNU-GPL\)**
+
+![](/assets/rosso.png)
+
+E' la licenza piu diffusa per il software libero.
+
+* **GNU Lesser General Public License \(LGPL\)**
+
+* **GNU Free Documentation Licence \(GFDL\)**
+* **GNU Affero General Public Licence \(AGPL\)**
+* **Prosody's MIT/X11 \(X11\)**
+* **UCB Berkeley Software Distribution \(UCB BSD\)**
+* **UCB Berkeley Software Distribution revised \(UCB BSDr\)**
+* **BSD non Berkeley \(BSD\)**
+* **Mozilla Public License \(MPL\)**
+
+
+
+| Sigla | Software Libero | Software non Libero |
+| :--- | :--- | :--- |
+| GNU-GPL | Sì | No |
+| LGPL | Sì | Sì |
+| FDL | Sì | No |
+| AGPL | Sì | No |
+| X11 | Sì | Sì |
+| UCB BSD | Sì | Sì |
+| UCB BSDr | Sì | Sì |
+| BSD | Sì | Sì |
+| Mozilla Public License | Si | Sì |
 
 
 
