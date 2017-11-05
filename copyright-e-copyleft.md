@@ -69,21 +69,29 @@ Di seguito verranno illustrate alcune delle licenze più diffuse:
 
 * **GNU General Public License \(GNU-GPL\)**
 
-![](/assets/rosso.png)
+![](/assets/GPLv3_Logo.svg.png)
 
 E' la licenza piu diffusa per il software libero.
 
 * **GNU Lesser General Public License \(LGPL\)**
 
-![](/assets/1200px-LGPLv3_Logo.svg.png)
+![](/assets/256px-LGPLv3_Logo.svg.png)
 
-* **GNU Free Documentation Licence \(GFDL\)**
+* **GNU Free Documentation License \(GFDL\)**
 
-* **GNU Affero General Public Licence \(AGPL\)**
+![](/assets/GFDL_Logo.svg)
+
+* **GNU Affero General Public License \(AGPL\)**
+
+![](blob:https://www.gitbook.com/148c3339-22c7-4e72-82b7-f3a1a2315f5b)
+
+  
+
 
 * **Prosody's MIT/X11 \(X11\)**
 
 * **UCB Berkeley Software Distribution \(UCB BSD\)**
+
 * **UCB Berkeley Software Distribution revised \(UCB BSDr\)**
 * **BSD non Berkeley \(BSD\)**
 * **Mozilla Public License \(MPL\)**
