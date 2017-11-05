@@ -77,22 +77,28 @@ E' la licenza piu diffusa per il software libero.
 
 ![](/assets/256px-LGPLv3_Logo.svg.png)
 
+E' una licenza creata dalla Free Software Foundation, studiata come compromesso tra la GNU General Public License e altre licenze non-copyleft come ad esempio le cosiddette Licenza BSD, la Licenza X11 e la Licenza Apache.
+
 * **GNU Free Documentation License \(GFDL\)**
 
 ![](/assets/GFDL_Logo.svg)
 
+E' stata creata dalla Free Software Foundation per distribuire la documentazione di software e materiale didattico. Stabilisce che ogni copia del materiale, anche se modificata, deve essere distribuita con la stessa licenza. Tali copie possono essere vendute e, se riprodotte in gran quantità, devono essere rese disponibili anche in un formato che faciliti successive modifiche.
+
+_**Questa Tesi di maturita è stata realizzata con questa licenza **_
+
+\(GNU Free Documentation License 1.2\).
+
 * **GNU Affero General Public License \(AGPL\)**
 
 ![](blob:https://www.gitbook.com/148c3339-22c7-4e72-82b7-f3a1a2315f5b)
-
-  
-
 
 * **Prosody's MIT/X11 \(X11\)**
 
 * **UCB Berkeley Software Distribution \(UCB BSD\)**
 
 * **UCB Berkeley Software Distribution revised \(UCB BSDr\)**
+
 * **BSD non Berkeley \(BSD\)**
 * **Mozilla Public License \(MPL\)**
 
