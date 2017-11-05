@@ -93,13 +93,18 @@ _**Questa Tesi di maturita è stata realizzata con questa licenza **_
 
 ![](blob:https://www.gitbook.com/148c3339-22c7-4e72-82b7-f3a1a2315f5b)
 
+E' stata creata dalla Free Software Foundation. E' simile alla GNU General Public License, eccetto per il fatto che ha una sezione aggiuntiva che si riferisce all'utilizzo del software su una rete di calcolatori. Tale sezione aggiuntiva richiede che il codice sorgente completo sia reso disponibile a qualunque utente in rete dell'opera coperta da AGPL, come tipicamente avviene per le applicazioni web.
+
 * **Prosody's MIT/X11 \(X11\)**
+
+
 
 * **UCB Berkeley Software Distribution \(UCB BSD\)**
 
 * **UCB Berkeley Software Distribution revised \(UCB BSDr\)**
 
 * **BSD non Berkeley \(BSD\)**
+
 * **Mozilla Public License \(MPL\)**
 
 | Sigla | Software Libero | Software non Libero |
