@@ -103,11 +103,11 @@ E' una licenza di Software libero creata dal Massachusetts Institute of Technolo
 
 * **UCB Berkeley Software Distribution \(UCB BSD\)**
 
-![](/assets/256px-License_icon-bsd.svg.png)
-
 * **UCB Berkeley Software Distribution revised \(UCB BSDr\)**
 
 * **BSD non Berkeley \(BSD\)**
+
+![](/assets/256px-License_icon-bsd.svg.png)
 
 * **Mozilla Public License \(MPL\)**
 
