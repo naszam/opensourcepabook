@@ -14,7 +14,7 @@ L'adozione diFLOSSall'interno della PA porta normalmente un risparmio iniziale i
 
 Per effettuare un confronto economico reale e completo, bisogna prendere ad oggetto non la spesa iniziale, ma la differenza tra il TCO \(“Total Cost of Ownership” o costo totale di possesso\) delle soluzioni open source e il TCO delle soluzioni proprietarie. Nel TCO, confluiscono oltre al costo delle licenze, i servizi di supporto, della formazione, i costi di migrazione, d'installazione e di gestione. Pertanto dalla differenza di questi due valori avremo un risultato positivo a favore delle soluzioni open source che hanno costi iniziali bassi, costi di supporto contenuti, costi di formazione e migrazione relativamente inesistenti grazie alle caratteristiche del software open source e del corredo informativo che lo accompagna, e lo stesso vale per i costi d'installazione e manutenzione.
 
-Un elemento a favore delFLOSSnella pubblica amministrazione è_l'indipendenza dai fornitori_che consiste nell'affidare il supporto di un prodotto open source ad un'azienda scelta dal cliente, eliminando il vincolo imposto dal software proprietario che può essere supportato solamente dal produttore \(o un suo partner autorizzato\).
+Un elemento a favore delFLOSSnella pubblica amministrazione è\_l'indipendenza dai fornitori\_che consiste nell'affidare il supporto di un prodotto open source ad un'azienda scelta dal cliente, eliminando il vincolo imposto dal software proprietario che può essere supportato solamente dal produttore \(o un suo partner autorizzato\).
 
 Disporre del codice sorgente dei programmi utilizzati all'interno della propria organizzazione, consente un grado maggiore di sicurezza. Infatti, è possibile effettuare controlli interni alla ricerca di back door o debolezze sfruttabili da attacchi esterni; mentre il software proprietario non permette tutto ciò, ma, anzi, è molto appetibile per i cracker che intendono entrare nel sistema per sottrarre informazioni e dati sensibili, per via della sua scarsa stabilità e della presenza di numerosi bug[27\)](http://theopensourcepa.altervista.org/doku.php?id=open_source#fn__27)che spesso vengono tappezzati con delle patch. L'amministrazione, quindi, dispone di un maggior controllo sulla politica di evoluzione del proprio parco applicativo, e, in modo generale, sulla governo della gestione del patrimonio pubblico, evitando sprechi inutili e controproducenti. Questo assume notevole importanza in aspetti connessi alla sicurezza, quali l'autenticazione e l'identificazione del cittadino o quelli relativi all'integrità, confidenzialità e all'accessibilità dei dati nel corso del tempo.
 
@@ -42,5 +42,26 @@ Il ricorso a lFLOSS può fungere da leva per la modernizzazione dei sistemi info
   * _**Portabilità**_
     . Consente di utilizzare software su piattaforme hardware diverse. Un componente software è portabile se eseguirne il porting è semplice \(e quindi poco costoso\); in questo senso, la portabilità si può considerare un caso particolare di riusabilità del software. Il caso limite è quello in cui un componente software può essere riutilizzato su diverse piattaforme senza che questo comporti alcuna modifica. l'esempio più classico è rappresentato da Linux che può essere installato su una pluralità di piattaforme hardware a differenza di Microsoft Windows che, invece, può essere installato solo su una cerchia ristretta di piattaforme hardware.
 
+## Limiti
 
+_“Abbiamo dimostrato la nostra capacità di sviluppare un’ampia gamma di software libero, ma questo non significa che siamo invincibili e inarrestabili. Diverse sfide rendono incerto il futuro del software libero, e affrontarle richiederà perseveranza e sforzi costanti, talvolta per anni. Sarà necessaria quella determinazione che le persone sanno dimostrare quando danno valore alla propria libertà e non permettono a nessuno di sottrargliela. \(Richard Stallman\)”_
+
+Ed è proprio dalle parole di Stallman che voglio introdurre il seguente paragrafo che illustrerà quelli che sono i limiti e le sfide che si propone di vincere il software libero e più in generale ilFLOSS.
+
+Uno dei limiti che presentano iFLOSSè la non completa portabilità, che attualmente si sta pian piano risolvendo divenendo un punto di forza di Linux. Tuttavia, i costruttori di hardware, molto spesso tendono a mantenere segrete le specifiche delle loro apparecchiature oppure a rilasciarle driver molti mesi dopo l'uscita dei dispositivi hardware; questo rende difficile la scrittura di driver liberi che permettano a Linux di supportare le nuove periferiche. Oggi, questo è stato quasi completamente risolto grazie alla comunità di programmatori dietro allo sviluppo di Linux e degli altriFLOSSche, attraverso complesse tecniche di reverse engineering, possono ricostruire le specifiche dell’hardware grazie alla collaborazione delle grandi aziende produttrici del settore \(quali: Intel, Ati, Nvidia, ecc…\). In particolar modo i dispositivi hardware che possono creare dei problemi di compatibilità sono principalmente il wireless delle connessioni internet, ecc… .
+
+Inoltre se si analizzano i processi di sviluppo, acquisizione, installazione del software e le risorse coinvolte \(umane, organizzative, progettuali, finanziarie, distributive e d'informazione\), proprie del modello delFLOSSdefinito Bazaar\(tipico del progetto Linux\), in contrapposizione al modello tradizionale a Cattedrale, si riscontra che esso si basa sui contributi di migliaia di programmatori che lavorano in modo totalmente “volontario”, scambiandosi idee e file attraverso internet, e giungono in assenza di autorità centrale a realizzare programmi complessi.
+
+Sorge a questo punto una domanda: “Come può la Pubblica Amministrazione sviluppare software corrispondente al modello a Bazaar?” Tale quesito può essere soddisfatto attraverso i seguenti requisiti:
+
+* Un numero ragionevole di operatori “con lo stesso problema”;
+* Ripartizione iniziale e flessibile dei compiti di gestione/direzione tra persone diverse appartenenti ad organizzazioni diverse;
+* Documentazione sufficiente per permettere a chiunque di continuare lo sviluppo di un progetto iniziato da altri;
+* Niente codici monolitici
+* Software articolato in più segmenti di codice di dimensioni relativamente ridotte, così da agevolare una gestione individuale;
+* Identificazione delle parti stabili e di quelle che vanno ottimizzate in base al principio “dei rilasci frequenti”.
+
+Queste considerazioni possono valere anche per gli sviluppatori proprietari.
+
+In conclusione, si dovrebbe realizzare una comunità di programmatori al livello europeo in tutte le Pubbliche Amministrazione, una sorta di Unione Informatica, per permettere, oltre che una forte coesione ed equilibrio tra gli stati comunitari, anche un veloce sviluppo di soluzioni specifiche che possono essere utilizzate da tutte le PA in modo da permettere, oltre ad una riduzione dei costi, una standardizzazione deiFLOSSal livello europeo e mondiale.
 
