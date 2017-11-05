@@ -78,6 +78,7 @@ E' la licenza piu diffusa per il software libero.
 * **GNU Free Documentation Licence \(GFDL\)**
 
 * **GNU Affero General Public Licence \(AGPL\)**
+
 * **Prosody's MIT/X11 \(X11\)**
 * **UCB Berkeley Software Distribution \(UCB BSD\)**
 * **UCB Berkeley Software Distribution revised \(UCB BSDr\)**

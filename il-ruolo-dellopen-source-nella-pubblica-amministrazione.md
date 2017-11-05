@@ -44,7 +44,7 @@ Il ricorso a lFLOSS può fungere da leva per la modernizzazione dei sistemi info
 
 ## Limiti
 
-_“Abbiamo dimostrato la nostra capacità di sviluppare un’ampia gamma di software libero, ma questo non significa che siamo invincibili e inarrestabili. Diverse sfide rendono incerto il futuro del software libero, e affrontarle richiederà perseveranza e sforzi costanti, talvolta per anni. Sarà necessaria quella determinazione che le persone sanno dimostrare quando danno valore alla propria libertà e non permettono a nessuno di sottrargliela. \(Richard Stallman\)”_
+> _“Abbiamo dimostrato la nostra capacità di sviluppare un’ampia gamma di software libero, ma questo non significa che siamo invincibili e inarrestabili. Diverse sfide rendono incerto il futuro del software libero, e affrontarle richiederà perseveranza e sforzi costanti, talvolta per anni. Sarà necessaria quella determinazione che le persone sanno dimostrare quando danno valore alla propria libertà e non permettono a nessuno di sottrargliela. \(Richard Stallman\)”_
 
 Ed è proprio dalle parole di Stallman che voglio introdurre il seguente paragrafo che illustrerà quelli che sono i limiti e le sfide che si propone di vincere il software libero e più in generale ilFLOSS.
 
