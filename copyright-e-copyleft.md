@@ -123,7 +123,7 @@ E' una licenza di Software libero creata dal Massachusetts Institute of Technolo
 | UCB BSD | Sì | Sì |
 | UCB BSDr | Sì | Sì |
 | BSD | Sì | Sì |
-| Mozilla Public License | Si | Sì |
+| MPL | Si | Sì |
 
 
 
