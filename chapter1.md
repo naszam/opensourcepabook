@@ -1,6 +1,6 @@
 # Il Free/Libre and Open Source Software
 
-![](/assets/tim-o_reilly-and-richard-stallman.png)
+![](/assets/tim-o_reilly-and-richard-stallman.png)_Tim O'Reilly e Richard Stallman_
 
 Il fenomeno del [Free/Libre and Open Source Software \(FLOSS\)](http://flossproject.merit.unu.edu/)[^1] nasce dalla fusione di due correnti di pensiero, quella dei sostenitori del **“Free Software” **\(termine inglese che significa_software libero_\) e quella dei sostenitori del **“Open Source”**\(termine inglese che significa _sorgente aperto_\). Entrambi i movimenti condividono l'idea guida della _disponibilità completa e senza limitazioni dei sorgenti_, ma si diversificano, oltre che per la terminologia, per alcuni aspetti filosofici e di principio. Infatti i sostenitori del Software Libero, movimento sociale nato nel 1983 dall'informatico statunitense Richard Stallman, scelgono questo termine per insistere sulle “libertà” dell'utente di eseguire il programma, di studiarlo e di ridistribuirne delle copie con o senza modifiche, definite dalla **Free Software Foundation \(FSF\)**, fondata dallo stesso Richard Stallman nel 1985, attravero ["The Free Software Definition"](https://www.gnu.org/philosophy/free-sw.it.html). Tali libertà non sono dei criteri, ma principalmente delle motivazioni etiche e sociali.
 
