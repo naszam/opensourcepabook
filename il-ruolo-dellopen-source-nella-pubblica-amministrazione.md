@@ -28,19 +28,19 @@ Il ricorso a lFLOSS può fungere da leva per la modernizzazione dei sistemi info
   _formati aperti e standard_
   che assicurano:
   * _**Indipendenza**_
-    . La possibilità di disporre del open source code \(codice sorgente aperto\), consente l'indipendenza da uno specifico prodotto e fornitore. Tutti possono sviluppare applicazioni che gestiscono un formato aperto \(es. il formato usato da Open Office:
+    La possibilità di disporre del open source code \(codice sorgente aperto\), consente l'indipendenza da uno specifico prodotto e fornitore. Tutti possono sviluppare applicazioni che gestiscono un formato aperto \(es. il formato usato da Open Office:
     XML
     , eXtensible Markup Language\).
   * _**Interoperabilità**_
-    . Usando formati aperti standard, sistemi eterogenei sono in grado di condividere gli stessi dati.
+    Usando formati aperti standard, sistemi eterogenei sono in grado di condividere gli stessi dati.
   * _**Neutralità**_
-    . I formati aperti non obbligano a usare uno specifico prodotto, lasciando libero l'utente di scegliere sulla base del rapporto di qualità/prezzo.
+    I formati aperti non obbligano a usare uno specifico prodotto, lasciando libero l'utente di scegliere sulla base del rapporto di qualità/prezzo.
   * _**Persistenza**_
-    . I formati aperti standard permettono la tutela del patrimonio informativo nel tempo a fronte del mutamento tecnologico. Grazie a questa caratteristica, le PP.AA. non saranno costrette a cambiare costantemente l'apparato informatico per adeguarsi ai vincoli imposti dai software proprietari come il caso di “Windows Vista” che ha reso necessari almeno quattro
+    I formati aperti standard permettono la tutela del patrimonio informativo nel tempo a fronte del mutamento tecnologico. Grazie a questa caratteristica, le PP.AA. non saranno costrette a cambiare costantemente l'apparato informatico per adeguarsi ai vincoli imposti dai software proprietari come il caso di “Windows Vista” che ha reso necessari almeno quattro
     GB
     \(Gigabyte\) di RAM \(Random Access Memory\) per poter funzionare, che di fatto hanno portato molte aziende ad effettuare un nuovo investimento a causa di hardware obsoleto che, con software open source, sarebbe anche troppo performante e richiederebbe solamente piccole modifiche ma non rinnovamenti strutturali totali.
   * _**Portabilità**_
-    . Consente di utilizzare software su piattaforme hardware diverse. Un componente software è portabile se eseguirne il porting è semplice \(e quindi poco costoso\); in questo senso, la portabilità si può considerare un caso particolare di riusabilità del software. Il caso limite è quello in cui un componente software può essere riutilizzato su diverse piattaforme senza che questo comporti alcuna modifica. l'esempio più classico è rappresentato da Linux che può essere installato su una pluralità di piattaforme hardware a differenza di Microsoft Windows che, invece, può essere installato solo su una cerchia ristretta di piattaforme hardware.
+    Consente di utilizzare software su piattaforme hardware diverse. Un componente software è portabile se eseguirne il porting è semplice \(e quindi poco costoso\); in questo senso, la portabilità si può considerare un caso particolare di riusabilità del software. Il caso limite è quello in cui un componente software può essere riutilizzato su diverse piattaforme senza che questo comporti alcuna modifica. l'esempio più classico è rappresentato da Linux che può essere installato su una pluralità di piattaforme hardware a differenza di Microsoft Windows che, invece, può essere installato solo su una cerchia ristretta di piattaforme hardware.
 
 ## Limiti
 
