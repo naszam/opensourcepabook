@@ -111,6 +111,8 @@ E' una licenza di Software libero creata dal Massachusetts Institute of Technolo
 
 * **Mozilla Public License \(MPL\)**
 
+![](/assets/Mozilla_logo.svg.png)
+
 | Sigla | Software Libero | Software non Libero |
 | :--- | :--- | :--- |
 | GNU-GPL | Sì | No |
