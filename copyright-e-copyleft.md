@@ -103,15 +103,23 @@ E' una licenza di Software libero creata dal Massachusetts Institute of Technolo
 
 * **UCB Berkeley Software Distribution \(UCB BSD\)**
 
+La licenza BSD originale fa riferimento all'università di Berckeley, con espresso divieto di utilizzarne il nome per scopi pubblicitari. Non è conveniente utilizzare questa licenza, a meno di avere un motivo valido in tal senso. Questa particolarità non la rende adatta a situazioni generali e crea problemi di compatibilità con la licenza GNU-GPL.
+
 * **UCB Berkeley Software Distribution revised \(UCB BSDr\)**
+
+Si tratta della licenza UCB BSD senza la clausola che crea problemi di compatibilità con la licenza GNU-GPL.
 
 * **BSD non Berkeley \(BSD\)**
 
 ![](/assets/256px-License_icon-bsd.svg.png)
 
+E' una famiglia di licenze che non rientrano in quelle create dall'università di Berkeley.
+
 * **Mozilla Public License \(MPL\)**
 
 ![](/assets/Mozilla_logo.svg.png)
+
+E' una licenza open source e free software concepita come una versione ibridata di una Licenza BSD modificata e la GNU General Public License. La Free Software Foundation la considera una licenza di tipo freeware \(es. Mozilla Application Suite, di Mozilla Firefox, di Mozilla Thunderbird e di altro software Mozilla; ecc…\).
 
 | Sigla | Software Libero | Software non Libero |
 | :--- | :--- | :--- |
