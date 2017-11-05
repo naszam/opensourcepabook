@@ -26,7 +26,34 @@ Così, supportato da forti motivazioni etiche, lasciò ilMITnel 1984, per evitar
 
 Nel 1985 pubblicò il manifesto GNU, che descriveva le sue motivazioni per creare un sistema operativo libero chiamato GNU.
 
-Poco dopo, diede vita a una corporazione no profit chiamata Free Software Foundation per allargare il progetto ad una cerchia di programmatori specializzati e dare una struttura legale al movimento del software libero. \(per maggiori approfondimenti guardare:
+Poco dopo, diede vita a una corporazione no profit chiamata Free Software Foundation per allargare il progetto ad una cerchia di programmatori specializzati e dare una struttura legale al movimento del software libero. \(per maggiori approfondimenti guardare: Un Po' di Storia.
+
+Stallman ha scritto molti saggi sulla libertà del software \(circa 50, contenuti nella [Filosofia del Progetto GNU](https://www.gnu.org/philosophy/philosophy.it.html)\) ed è dal 1990 attivista politico a favore del movimento del software libero.
+
+Nel 1999, Stallman lanciò lo sviluppo di un'enciclopedia libera on-line invitando il pubblico a contribuire al progetto scrivendo articoli \([L'Enciclopedia Universale Libera e le risorse per l'apprendimento](https://it.wikisource.org/wiki/L%27Enciclopedia_Universale_Libera_e_le_risorse_per_l%27apprendimento)\).
+
+Inoltre ha sempre, e continua tutt'ora, a tenere discorsi riguardo al progetto GNU e il movimento del software libero in tutto il mondo per divulgare quello che lui ritiene essere una corrente filosofica che esalta ed amplia il concetto di_libertà_.
+
+Grazie al suo fervido attivismo, molti governi hanno abbandonato il software proprietario, come quello di Microsoft, nelle scuole statali \(es. lo stato indiano del Kerala\) per adottare software libero che genera sicuramente un enorme risparmio economico ma porta con se anche motivazioni più profonde che difficilmente possono essere comprese e metabolizzate dal collettivo generale, in quanto bruciano i tempi e si proiettano nel futuro e in un mondo sicuramente migliore. Stallman ha inoltre partecipato nel 2006 a proteste sui brevetti del software DRM\(Digital Rights Management\) e software proprietario. Grazie al suo intervento, segnato anche da slogan e cartelloni che rivendicavano la libertà degli utenti contro i nemici della stessa, si è ottenuto un piccolo miglioramento da parte dell'ATI che si è fusa con AMD e ha fatto piccoli passi per rendere la documentazione per il loro hardware disponibile all'uso della comunità del software libero. Questo è uno dei tanti successi ottenuti dallo stesso Stallman nella sua campagna contro il software proprietario e l'affermazione del concetto di libertà e in particolare del software libero. La sua campagna contro il software proprietario e tutte le restrizioni imposte dalle società che lavorano nell'ambito informatico, nasce dal fatto che la società che sviluppa tale software può controllare, attraverso delle tecniche \(back door, spyware\), ciò che l'utente sta facendo sul proprio computer. Perciò, il software che credete sia vostro, non è nelle vostre mani per servirvi ma per controllarvi. Aziende come Microsoft e Apple hanno progettato il software con la specifica intenzione di imporvi restrizioni. Windows Vista è principalmente un miglioramento nel come imporre restrizioni all’utente. Ovviamente, non si tratta di Software Libero, perché il Software Libero si sviluppa sotto il controllo democratico dei suoi utenti secondo le quattro libertà dettate dallo stesso Stallman. Quando il controllo è nelle mani degli utenti, quando gli utenti possono avere il totale controllo del proprio computer, nessuno ha un potere tale da permettergli di imporre funzionalità malevole per limitare gli utenti, per spiarli, per aggredirli. Ed è proprio questo che sta alla base del movimento per il software libero, una democrazia virtuale all'interno del mondo del cyberspace e dell'informatica in genere.
+
+Stallman ha dedicato quasi tutte le sue energie della sua vita all'attivismo politico e nel campo del software. Dichiarando di curarsi poco dei beni materiali:_” ho sempre vissuto grossolanamente… come uno studente, sostanzialmente. E mi piace questo, perché significa che il denaro non mi dice cosa fare”._Per molti anni visse al di fuori del suo ufficio al laboratorio CSAIL delMIT, definendosi uno “squatter” \(occupatore abusivo\) nel campus. La sua professione di “research affiliate” alMITnon veniva retribuita.
+
+Viene da molti considerato come un DIO, un profeta, in quanto il suo pensiero, per quanto elaborato e complesso, ha dato vita ad un movimento filosofico talmente profondo e talmente futuristico da essere considerato qualcosa di più che un semplice progetto di sviluppo. L'immagine riportata nel paragrafo, lo ritrae nei panni di un santo ad una conferenza al Club Dirigenti Informatici di Torino, dove con il suo grande carisma da moderno messia telematico, si è, al termine della conferenza, ironicamente travestito da sant’iGNUcius, con tanto di aureola fatta con un vecchio laser disc e ha invitato tutti a diventare “fedeli della nuova chiesa del software libero”. Alla sua “chiesa” servono molti programmi liberi, manuali liberi e… soprattutto, fondi e risorse economiche libere. E' una sorta di rituale che effettua in tutte le conferenze che tiene in giro per il mondo per intrattenere e far divertire il suo pubblico e, allo stesso tempo, diffondere il suo pensiero.
+
+Grazie al suo attivismo, si stima che oggi ci siano più di 20 milioni di utenti che utilizzano sistemi operativi GNU/Linux.
+
+## Riconoscimenti:
+
+* 1990: “MacArthur Fellowship”
+* 1991: “The Association for Computing Machinery's Grace Hopper Award” per il suo lavoro sull'Emacs originale
+* 1996: Laurea honoris causa dallo “Sweden's Royal Institute of Technology”
+* 1998: “Electronic Frontier Foundation's Pioneer award”
+* 1999: “Yuri Rubinski Memorial Award”
+* 2001: “The Takeda Techno-Entrepreneurship Award”
+* 2001: Laurea honoris causa dalla Università di Glasgow
+* 2002: “National Academy of Engineering membership”
+* 2003: Laurea honoris causa dalla “Vrije Universiteit Brussel”
+* 2007: Stallman è stato ascoltato in una audizione ufficiale dalla commissione cultura della Camera dei deputati italiana. Il 24 settembre 2007 riceve la Laurea honoris causa in Ingegneria informatica dalla Università di Pavia.
 
 
 
