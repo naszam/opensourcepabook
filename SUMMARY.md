@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Copertina](README.md)
 * [Il Free/Libre and Open Source Software](chapter1.md)
 * [Un po' di Storia](un-po-di-storia.md)
 * [Linus Torvalds e la nascita di Linux](linus-torvalds-e-la-nascita-di-linux.md)
