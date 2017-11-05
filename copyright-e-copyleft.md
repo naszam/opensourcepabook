@@ -97,7 +97,7 @@ E' stata creata dalla Free Software Foundation. E' simile alla GNU General Publi
 
 * **Prosody's MIT/X11 \(X11\)**
 
-![](/assets/prosody.png)
+![](/assets/256px-License_icon-mit.svg.png)
 
 E' una licenza di Software libero creata dal Massachusetts Institute of Technology \(MIT\). È una licenza permissiva, cioé permette il riutilizzo del software proprietario sotto la condizione che la licenza sia distribuita con tale software. È anche una licenza GPL-compatibile, cioé la GPL permette di combinare e ridistribuire tale software con altro che usa la Licenza MIT.
 
