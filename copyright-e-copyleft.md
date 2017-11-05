@@ -27,10 +27,9 @@ Il software libero comprende al suo interno i seguenti tipi di software:
 
 Il software di dominio pubblico è software senza copyright, cioè software sul quale l'autore abbia rinunciato a tutti i suoi diritti di copyright. Sostanzialmente si tratta di software libero, solo che, mancando chi possa difenderlo, qualcuno potrebbe accaparrarsene i diritti; pertanto alcune copie o varianti di questo software possono non essere più libere.
 
-* 
+* **Software protetto da copyleft**
 
+![](/assets/logo-c.png)
 
-
-
-
+La parola _**copyleft **_\(“permesso d'autore”\) è un invenzione di Richard Stallman, e vuole rappresentare il copyright di chi, mentre difende il proprio diritto di autore, vuole difendere la libertà della sua opera, imponendo che questa e le sue derivazioni restino libere. In pratica una licenza appartenente a questa categoria, impedisce a chi redistribuisce il software \(originale o modificato\) di aggiungere delle restrizioni ulteriori. La più famosa licenza di questo tipo è la licenza pubblica GNU-GPL \(GNU-General Public License\). Tuttavia, è necessario specificare che il copyleft esiste grazie al diritto d'autore, in quanto il copyleft non è altro che una modalità di esercizio del diritto d'autore che utilizza le prerogative assolute garantite dalla legge all'autore, per stabilire un regime di circolazione dell'opera protetta diverso quello comunemente noto come proprietario. Infatti, le persone che contribuiscono al lavoro protetto dal copyleft devono divenire co-detentori del copyright di quel lavoro ed allo stesso tempo rinunciare ad alcuni dei diritti garantiti dal copyright, per esempio rinunciare al diritto di essere l'unico distributore delle copie di tale lavoro.
 
