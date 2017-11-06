@@ -16,7 +16,7 @@ I principali contenuti della “Direttiva Stanca” sono i seguenti \(in partico
 
 Oltre alla Direttiva menzionata, sono stati attuati altri interventi legislativi come, ad esempio, l'art. 68, comma 1, lettera d, già citato, del Decreto Legislativo 7 marzo 2005, n. 82 “Codice dell’amministrazione digitale” e le successive integrazioni e modificazioni \(Decreto Legislativo 4 aprile 2006, n. 159 “Disposizioni integrative e correttive al decreto legislativo 7 marzo 2005, n. 82, recante codice dell’amministrazione digitale”\) e la Legge 27 dicembre 2006, n.296 - Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato \(legge finanziaria 2007\). Quest’ultima istituiva un Fondo di 10 milioni di Euro \(comma 892\) al fine di sostenere la realizzazione di progetti per la società dell'informazione, la cui destinazione prioritaria era rivolta a progetti che “utilizzano o sviluppano applicazioni software a codice aperto”.
 
-![](/assets/overallc.png)
+![](/assets/overallc.png)_Risultati Netcraft_
 
 Recentemente vi è stata la riproposizione della Commissione Open Source 2007, sempre presieduta dal Prof. Angelo Raffaele Meo, e presso il Ministero per le Riforme e le Innovazioni nella Pubblica Amministrazione è stata istituita la**Commissione Nazionale per il software Open Source nella PA**. Il decreto ministeriale istitutivo della Commissione \(16 maggio 2007\), a firma del Ministro Nicolais, ha definito tre obiettivi prioritari:
 
