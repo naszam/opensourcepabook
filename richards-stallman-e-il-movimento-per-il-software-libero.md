@@ -30,7 +30,7 @@ Poco dopo, diede vita a una corporazione no profit chiamata Free Software Founda
 
 Stallman ha scritto molti saggi sulla libertà del software \(circa 50, contenuti nella [Filosofia del Progetto GNU](https://www.gnu.org/philosophy/philosophy.it.html)\) ed è dal 1990 attivista politico a favore del movimento del software libero.
 
-Nel 1999, Stallman lanciò lo sviluppo di un'enciclopedia libera on-line invitando il pubblico a contribuire al progetto scrivendo articoli \(
+Nel 1999, Stallman lanciò lo sviluppo di un'enciclopedia libera on-line invitando il pubblico a contribuire al progetto scrivendo articoli \([L'Enciclopedia Universale Libera e le risorse per l'apprendimento](https://it.wikisource.org/wiki/L%27Enciclopedia_Universale_Libera_e_le_risorse_per_l%27apprendimento)\).
 
 Inoltre ha sempre, e continua tutt'ora, a tenere discorsi riguardo al progetto GNU e il movimento del software libero in tutto il mondo per divulgare quello che lui ritiene essere una corrente filosofica che esalta ed amplia il concetto di _libertà_.
 
