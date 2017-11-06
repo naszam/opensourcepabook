@@ -5,7 +5,7 @@ Tutto ebbe inizio quando un [hacker](https://it.wikisource.org/wiki/Codice_Liber
 * Nel gennaio del 1992, esce la versione 0.12 di linux. In aprile arriva la 0.96. E, nello stesso periodo, escono le prime distribuzioni Linux \([MCC Interim Linux](https://en.wikipedia.org/wiki/MCC_Interim_Linux)[^10], [SLS](https://it.wikipedia.org/wiki/Softlanding_Linux_System)[^11] e TAMU\).
 * Nel 1994 esce la prima versione definitiva, la 1.0. Nascono le distribuzioni [SUSE](https://www.suse.com/), [Debian](https://www.debian.org/) e [Red Hat](https://www.redhat.com/it). Linux diventa ufficialmente software OpenSource con licenza GNU GPL. Si allarga la comunità di utilizzatori e sviluppatori.
 
-* Nel 1995 nasce la prima distribuzione commerciale di Linux, [Caldera](http://www.pluto.it/files/journal/pj9701/special/caldera.html). Inoltre viene rilasciata la versione 1.2 di Linux.
+* Nel 1995 nasce la prima distribuzione commerciale di Linux, [Caldera](http://www.pluto.it/files/journal/pj9701/special/caldera.html)[^12]. Inoltre viene rilasciata la versione 1.2 di Linux.
 
 * Nel 1996 viene rilasciata la versione 2.0 di Linux e nasce la mascotte ufficiale del kernel Linux, TUX , creata da Larry Ewing; rappresentata \(come si può vedere dalla foto qui riportata\) da un simpatico pinguino paffuto dall'aria contenta. L'idea che la mascotte di Linux dovesse essere un pinguino, venne ispirata dalla moglie di Linus Torvalds, Tove Torvalds che conosceva la simpatia che il marito prova per queste creature.
 
@@ -38,4 +38,6 @@ Tutt'oggi, il fenomeno del pinguino non si è arrestato, ma, al contrario, si st
 [^10]:  Distribuzione che fu resa disponibile per il download pubblico dal server ftp dell'Università di Manchester nel febbraio 1992.
 
 [^11]:  Acronimo di Softlanding Linux System.
+
+[^12]:  E' un Linux commerciale basato su Red Hat, diverso dai soliti prodotti Linux, non commerciali, come Slackware e gli altri commerciali quali Yggdrasil o Red Hat, perché include nella sua distribuzioni tutta una serie di prodotti aggiunti che lo rendono unico, questo per offrire il massimo supporto sia allo studente, sia al privato, ma sopratutto alle aziende.
 
