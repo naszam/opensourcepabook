@@ -13,7 +13,7 @@ Tutto ebbe inizio quando un [hacker](https://it.wikisource.org/wiki/Codice_Liber
 
 * Nel 2001, esce la versione 2.4 che presenta un miglior supporto dell'hardware.
 
-* Nel 2003, esce la versione 2.6 che porta con se numerose novità, tra cui il sistema di numerazione del kernel che da 3 cifre è passato a 4 \(la struttura attuale è: A.B.C.D, per esempio 2.2.1, 2.4.13, oppure 2.6.12.3; dove la A indica la versione del kerne; la B indica la revisione “maggiore” del kernel; la C indica la revisione “minore” del kernel e la D indica correzioni e patch di sicurezza\). Tuttora il kernel linux viene periodicamente rilasciato con notevoli miglioramenti. L'attuale release del kernel linux è la 2.6.30 \(10 giugno 2009\).
+* Nel 2003, esce la versione 2.6 che porta con se numerose novità, tra cui il sistema di numerazione del kernel che da 3 cifre è passato a 4 \(la struttura attuale è: A.B.C.D, per esempio 2.2.1, 2.4.13, oppure 2.6.12.3; dove la A indica la versione del kerne; la B indica la revisione “maggiore” del kernel; la C indica la revisione “minore” del kernel e la D indica correzioni e patch di sicurezza\). Tuttora il kernel linux viene periodicamente rilasciato con notevoli miglioramenti. L'attuale release del kernel linux è la [2.6.30](https://git.kernel.org/pub/scm/linux/kernel/git/backports/compat-wireless-2.6-old.git/) \(10 giugno 2009\).
 
 Tutt'oggi, il fenomeno del pinguino non si è arrestato, ma, al contrario, si sta affermando velocemente in tutto il mondo, sia in ambiente desktop per l'uso privato che, in particolar modo, in ambito aziendale dove, oggi, Linux è utilizzato soprattutto lato server.
 
