@@ -24,7 +24,7 @@ Attualmente, Linus Torvalds vive a Santa Clara, in California, con la moglie Tov
 
 Ciò testimonia la sua completa e totale passione per questo pinguino che ha fatto la felicità di molti nerd di tutto il mondo, a tal punto da abbandonare la Transmeta, di cui molti vorrebbero far parte, per dedicare anima e corpo allo sviluppo della sua creatura.
 
-In seguito, l'OSDL si è combinato con l'**FSG \(Free Standards Group\)**, dando vita nel 2007 alla Linux Foundation dove oggi Torvalds lavora allo sviluppo del kernel Linux.
+In seguito, l'OSDL si è combinato con l'**FSG \(Free Standards Group\)**, dando vita nel 2007 alla Linux Foundation[^6] dove oggi Torvalds lavora allo sviluppo del kernel Linux.
 
 ## Curiosita'
 
@@ -47,4 +47,6 @@ Un weekend, Linus sua moglie e le loro due figlie andarono allo Zoo, e, giunti i
 [^4]:  Termine inglese corrispondente all'italiano: bizzarro, anomalo, strano, ecc.
 
 [^5]:  Azienda statunitense che sviluppa tecnologie informatiche che hanno come obbiettivo primario la riduzione dei consumi in dispositivi elettronici \(es.processori a basso consumo\).
+
+[^6]:  Un consorzio no-profit che promuove, protegge e standardizza Linux, fornendo risorse e servizi necessari all'open source per competere con successo con le piattaforme chiuse \(o proprietarie\).
 
