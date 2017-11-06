@@ -1,6 +1,6 @@
 # Linus Torvalds e la nasciata di Linux
 
-![](/assets/linuxmano.png)  _Linux vs. Tux_
+![](/assets/linuxmano.png)  _Linus vs. Tux_
 
 [Linus Benedict Torvalds](https://www.cs.helsinki.fi/u/torvalds/) \(Helsinki, 28 dicembre 1969-vivente\), è un programmatore e hacker finlandese, conosciuto in tutto il globo per essere il padre del pinguino \(LINUX\) più famoso del mondo e coordinatore del progetto di sviluppo dello stesso.
 
