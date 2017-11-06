@@ -1,5 +1,7 @@
 # Richard Stallman e il movimento per il Software Libero
 
+![](/assets/richardstallman.1.png)
+
 [Richard Matthew Stallman](https://stallman.org/) \(New York, 16 marzo 1953-vivente\) è un programmatore, hacker e informatico statunitense, precursore e attivista del movimento del software libero contro il software con licenza proprietaria, pioniere del concetto di copyleft e autore di molte licenze legate al copyleft, tra cui, la GNU General Public License \(GPL\), la licenza per software libero più diffusa.
 
 Nasce nel 1953 a New York City da Daniel Stallman e Alice Lippman.
@@ -30,7 +32,7 @@ Poco dopo, diede vita a una corporazione no profit chiamata Free Software Founda
 
 Stallman ha scritto molti saggi sulla libertà del software \(circa 50, contenuti nella [Filosofia del Progetto GNU](https://www.gnu.org/philosophy/philosophy.it.html)\) ed è dal 1990 attivista politico a favore del movimento del software libero.
 
-Nel 1999, Stallman lanciò lo sviluppo di un'enciclopedia libera on-line invitando il pubblico a contribuire al progetto scrivendo articoli \(\[L'Enciclopedia Universale Libera e le risorse per l'apprendimento\]\([https://it.wikisource.org/wiki/L'Enciclopedia\_Universale\_Libera\_e\_le\_risorse\_per\_l'apprendimento\)\](https://it.wikisource.org/wiki/L'Enciclopedia_Universale_Libera_e_le_risorse_per_l'apprendimento%29\)\).
+Nel 1999, Stallman lanciò lo sviluppo di un'enciclopedia libera on-line invitando il pubblico a contribuire al progetto scrivendo articoli \(\[L'Enciclopedia Universale Libera e le risorse per l'apprendimento\]\(\[[https://it.wikisource.org/wiki/L'Enciclopedia\_Universale\_Libera\_e\_le\_risorse\_per\_l'apprendimento\)\]\(https://it.wikisource.org/wiki/L'Enciclopedia\_Universale\_Libera\_e\_le\_risorse\_per\_l'apprendimento\)\)\](https://it.wikisource.org/wiki/L'Enciclopedia_Universale_Libera_e_le_risorse_per_l'apprendimento%29]%28https://it.wikisource.org/wiki/L'Enciclopedia_Universale_Libera_e_le_risorse_per_l'apprendimento%29%29\)\).
 
 Inoltre ha sempre, e continua tutt'ora, a tenere discorsi riguardo al progetto GNU e il movimento del software libero in tutto il mondo per divulgare quello che lui ritiene essere una corrente filosofica che esalta ed amplia il concetto di _libertà_.
 
@@ -39,6 +41,8 @@ Grazie al suo fervido attivismo, molti governi hanno abbandonato il software pro
 Stallman ha dedicato quasi tutte le sue energie della sua vita all'attivismo politico e nel campo del software. Dichiarando di curarsi poco dei beni materiali: _” ho sempre vissuto grossolanamente… come uno studente, sostanzialmente. E mi piace questo, perché significa che il denaro non mi dice cosa fare”_.Per molti anni visse al di fuori del suo ufficio al laboratorio CSAIL delMIT, definendosi uno “squatter” \(occupatore abusivo\) nel campus. La sua professione di “research affiliate” alMITnon veniva retribuita.
 
 Viene da molti considerato come un DIO, un profeta, in quanto il suo pensiero, per quanto elaborato e complesso, ha dato vita ad un movimento filosofico talmente profondo e talmente futuristico da essere considerato qualcosa di più che un semplice progetto di sviluppo. L'immagine riportata nel paragrafo, lo ritrae nei panni di un santo ad una conferenza al Club Dirigenti Informatici di Torino, dove con il suo grande carisma da moderno messia telematico, si è, al termine della conferenza, ironicamente travestito da sant’iGNUcius, con tanto di aureola fatta con un vecchio laser disc e ha invitato tutti a diventare “fedeli della nuova chiesa del software libero”. Alla sua “chiesa” servono molti programmi liberi, manuali liberi e… soprattutto, fondi e risorse economiche libere. E' una sorta di rituale che effettua in tutte le conferenze che tiene in giro per il mondo per intrattenere e far divertire il suo pubblico e, allo stesso tempo, diffondere il suo pensiero.
+
+![](/assets/st_ignucius.png)
 
 Grazie al suo attivismo, si stima che oggi ci siano più di 20 milioni di utenti che utilizzano sistemi operativi GNU/Linux.
 
