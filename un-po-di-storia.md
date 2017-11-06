@@ -9,7 +9,7 @@ Tutto ebbe inizio quando un [hacker](https://it.wikisource.org/wiki/Codice_Liber
 
 * Nel 1996 viene rilasciata la versione 2.0 di Linux e nasce la mascotte ufficiale del kernel Linux, TUX , creata da Larry Ewing; rappresentata \(come si può vedere dalla foto qui riportata\) da un simpatico pinguino paffuto dall'aria contenta. L'idea che la mascotte di Linux dovesse essere un pinguino, venne ispirata dalla moglie di Linus Torvalds, Tove Torvalds che conosceva la simpatia che il marito prova per queste creature.
 
-![](/assets/Tux.png)
+![](/assets/Tux.png)_Tux by Larry Ewing_
 
 * Nel 1999, dopo una lunga pausa, esce la versione 2.2. di Linux. Gli utenti linux salgono a 7 milioni.
 
