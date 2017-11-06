@@ -18,7 +18,7 @@ Oltre alla Direttiva menzionata, sono stati attuati altri interventi legislativi
 
 ![](/assets/overallc.png)_Risultati della P.A.O.S._
 
-Recentemente vi è stata la riproposizione della Commissione Open Source 2007, sempre presieduta dal Prof. Angelo Raffaele Meo, e presso il Ministero per le Riforme e le Innovazioni nella Pubblica Amministrazione è stata istituita la**Commissione Nazionale per il software Open Source nella PA**. Il decreto ministeriale istitutivo della Commissione \(16 maggio 2007\), a firma del Ministro Nicolais, ha definito tre obiettivi prioritari:
+Recentemente vi è stata la riproposizione della Commissione Open Source 2007, sempre presieduta dal Prof. Angelo Raffaele Meo, e presso il Ministero per le Riforme e le Innovazioni nella Pubblica Amministrazione è stata istituita la **Commissione Nazionale per il software Open Source nella PA**. Il decreto ministeriale istitutivo della Commissione \(16 maggio 2007\), a firma del Ministro Nicolais, ha definito tre obiettivi prioritari:
 
 * un'analisi dello scenario europeo ed italiano del settore;
 * la definizione di linee guida operative per supportare le Amministrazioni negli approvvigionamenti di software open source;
