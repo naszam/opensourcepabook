@@ -5,13 +5,13 @@ Tutto ebbe inizio quando un [hacker](https://it.wikisource.org/wiki/Codice_Liber
 * Nel gennaio del 1992, esce la versione 0.12 di linux. In aprile arriva la 0.96. E, nello stesso periodo, escono le prime distribuzioni Linux \([MCC Interim Linux](https://en.wikipedia.org/wiki/MCC_Interim_Linux)[^10], [SLS](https://it.wikipedia.org/wiki/Softlanding_Linux_System)[^11] e TAMU\).
 * Nel 1994 esce la prima versione definitiva, la 1.0. Nascono le distribuzioni [SUSE](https://www.suse.com/), [Debian](https://www.debian.org/) e [Red Hat](https://www.redhat.com/it). Linux diventa ufficialmente software OpenSource con licenza GNU GPL. Si allarga la comunità di utilizzatori e sviluppatori.
 
-* Nel 1995 nasce la prima distribuzione commerciale di Linux, Caldera. Inoltre viene rilasciata la versione 1.2 di Linux.
+* Nel 1995 nasce la prima distribuzione commerciale di Linux, [Caldera](http://www.pluto.it/files/journal/pj9701/special/caldera.html). Inoltre viene rilasciata la versione 1.2 di Linux.
 
 * Nel 1996 viene rilasciata la versione 2.0 di Linux e nasce la mascotte ufficiale del kernel Linux, TUX , creata da Larry Ewing; rappresentata \(come si può vedere dalla foto qui riportata\) da un simpatico pinguino paffuto dall'aria contenta. L'idea che la mascotte di Linux dovesse essere un pinguino, venne ispirata dalla moglie di Linus Torvalds, Tove Torvalds che conosceva la simpatia che il marito prova per queste creature.
 
 * Nel 1999, dopo una lunga pausa, esce la versione 2.2. di Linux. Gli utenti linux salgono a 7 milioni.
 
-* Nel 2001, esce la versione 2.4 che presenta un miglior supporto dell'hardware
+* Nel 2001, esce la versione 2.4 che presenta un miglior supporto dell'hardware.
 
 * Nel 2003, esce la versione 2.6 che porta con se numerose novità, tra cui il sistema di numerazione del kernel che da 3 cifre è passato a 4 \(la struttura attuale è: A.B.C.D, per esempio 2.2.1, 2.4.13, oppure 2.6.12.3; dove la A indica la versione del kerne; la B indica la revisione “maggiore” del kernel; la C indica la revisione “minore” del kernel e la D indica correzioni e patch di sicurezza\). Tuttora il kernel linux viene periodicamente rilasciato con notevoli miglioramenti. L'attuale release del kernel linux è la 2.6.30 \(10 giugno 2009\).
 
