@@ -20,7 +20,7 @@ Poi nel 1980, si verificò quel famoso episodio inerente alla stampante Xerox 97
 
 Rifiutò un futuro dove avrebbe dovuto firmare accordi di non divulgazione per non condividere codici sorgente o informazioni tecniche con altri sviluppatori di software e compiere altre azioni che considerava oltraggiose dei suoi principi. Scelse, invece, di condividere il suo lavoro con gli altri in un “classico spirito di collaborazione”. Egli rifiutò la ricchezza come primo obiettivo di vita, cosa che stava dilagando nel mondo capitalistico, sostenendo che gli utenti di software dovrebbero avere la libertà condividere con gli altri il loro lavoro e di essere in grado di studiare e fare modifiche al software che usano per migliorarlo e contribuire all'evoluzione della tecnologia. Ha sempre combattuto contro il copyright e le restrizioni ad esso collegate, avviando addirittura una campagna di sensibilizzazione al software libero girando per tutto il mondo.
 
-Egli sostiene che la**Libertà**è vitale per il bene degli utenti e della società nel suo complesso come valore morale, e non unicamente per ragioni pragmatiche come sviluppare un software tecnicamente superiore. Da un punto di vista tecnico può essere considerato come progresso, ma a livello etico si estende a concetti quali libertà, solidarietà, collaborazione, ecc…
+Egli sostiene che la **Libertà **è vitale per il bene degli utenti e della società nel suo complesso come valore morale, e non unicamente per ragioni pragmatiche come sviluppare un software tecnicamente superiore. Da un punto di vista tecnico può essere considerato come progresso, ma a livello etico si estende a concetti quali libertà, solidarietà, collaborazione, ecc…
 
 Così, supportato da forti motivazioni etiche, lasciò ilMITnel 1984, per evitare influenze e si dedicò a tempo pieno al progetto GNU e al movimento del software libero, che aveva annunciato nel settembre del 1983.
 
@@ -30,7 +30,7 @@ Poco dopo, diede vita a una corporazione no profit chiamata Free Software Founda
 
 Stallman ha scritto molti saggi sulla libertà del software \(circa 50, contenuti nella [Filosofia del Progetto GNU](https://www.gnu.org/philosophy/philosophy.it.html)\) ed è dal 1990 attivista politico a favore del movimento del software libero.
 
-Nel 1999, Stallman lanciò lo sviluppo di un'enciclopedia libera on-line invitando il pubblico a contribuire al progetto scrivendo articoli \([L'Enciclopedia Universale Libera e le risorse per l'apprendimento](https://it.wikisource.org/wiki/L'Enciclopedia_Universale_Libera_e_le_risorse_per_l'apprendimento)\).
+Nel 1999, Stallman lanciò lo sviluppo di un'enciclopedia libera on-line invitando il pubblico a contribuire al progetto scrivendo articoli \([L'Enciclopedia Universale Libera e le risorse per l'apprendimento](https://it.wikisource.org/wiki/L%27Enciclopedia_Universale_Libera_e_le_risorse_per_l%27apprendimento)\).
 
 Inoltre ha sempre, e continua tutt'ora, a tenere discorsi riguardo al progetto GNU e il movimento del software libero in tutto il mondo per divulgare quello che lui ritiene essere una corrente filosofica che esalta ed amplia il concetto di_libertà_.
 
