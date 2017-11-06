@@ -63,7 +63,7 @@ Sorge a questo punto una domanda: “Come può la Pubblica Amministrazione svilu
 
 Queste considerazioni possono valere anche per gli sviluppatori proprietari.
 
-In conclusione, si dovrebbe realizzare una comunità di programmatori al livello europeo in tutte le Pubbliche Amministrazione, una sorta di Unione Informatica, per permettere, oltre che una forte coesione ed equilibrio tra gli stati comunitari, anche un veloce sviluppo di soluzioni specifiche che possono essere utilizzate da tutte le PA in modo da permettere, oltre ad una riduzione dei costi, una standardizzazione deiFLOSSal livello europeo e mondiale.
+In conclusione, si dovrebbe realizzare una comunità di programmatori al livello europeo in tutte le Pubbliche Amministrazione, una sorta di Unione Informatica, per permettere, oltre che una forte coesione ed equilibrio tra gli stati comunitari, anche un veloce sviluppo di soluzioni specifiche che possono essere utilizzate da tutte le PA in modo da permettere, oltre ad una riduzione dei costi, una standardizzazione dei FLOSS al livello europeo e mondiale.
 
 [^1]:  E' una società per azioni della Silicon Valley produttrice di software e semiconduttori, nota per aver prodotto il famoso linguaggio di programmazione Java.
 
