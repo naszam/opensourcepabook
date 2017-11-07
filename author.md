@@ -6,6 +6,6 @@ Il presente libro è stato pubblicato con licenza GNU Free Documention License 1
 
 Spero che la lettura del mia tesi di maturita' sia stata piacevole e d'ispirazione per ulteriori approfondimenti e ricerche.
 
-[![Donate Bitcoin](https://img.shields.io/badge/donate%20-0.001%20btc-blue.svg)(https://github.com/naszam/donate-bitcoin)]
+[![Donate Bitcoin](https://img.shields.io/badge/donate%20-0.001%20btc-blue.svg)(https://github.com/naszam/donate-bitcoin?amount=0.001&currency=BTC)]
 
 **1FNT53sz5AtbZkV71PJmxvtxiv4V4hSZFk** 
