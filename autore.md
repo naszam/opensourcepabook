@@ -1,4 +1,4 @@
-# Autore
+# Author
 
 Il presente libro e' stato realizzato da Nazzareno Massari, autore del wiki e Tesi di Maturita' relativa,  originariamente pubblicata al  seguente [link](https://theopensourcepa.altervista.org/doku.php?id=open_source).
 
