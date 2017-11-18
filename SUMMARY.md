@@ -1,7 +1,7 @@
 # Summary
 
 * [Copertina](README.md)
-* [Il Free/Libre and Open Source Software](chapter1.md)
+* [Il Free/Libre and Open Source Software](floss.md)
 * [Un po' di Storia](un-po-di-storia.md)
 * [Linus Torvalds e la nascita di Linux](linus-torvalds-e-la-nascita-di-linux.md)
 * [Richards Stallman e il movimento per il Software Libero](richards-stallman-e-il-movimento-per-il-software-libero.md)
