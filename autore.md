@@ -7,7 +7,3 @@ Il presente libro e' stato realizzato da Nazzareno Massari, autore del wiki e Te
 Il presente libro è stato pubblicato con licenza GNU Free Documention License 1.2, argomento trattato nella tesi.
 
 Spero che la lettura del mia tesi di maturita' sia stata piacevole e d'ispirazione per ulteriori approfondimenti e ricerche.
-
-[![Donate Bitcoin](https://img.shields.io/badge/donate-bitcoin-orange.svg)](https://blockchain.info/address/1FNT53sz5AtbZkV71PJmxvtxiv4V4hSZFk)
-
-
