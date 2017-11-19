@@ -1,4 +1,5 @@
 [![Donate Bitcoin](https://img.shields.io/badge/donate-bitcoin-orange.svg)](https://blockchain.info/address/1FNT53sz5AtbZkV71PJmxvtxiv4V4hSZFk)
+[![Say Thanks!](https://img.shields.io/badge/SayThanks-!-1EAEDB.svg)](https://saythanks.io/to/naszam)
 
 # Autore
 
