@@ -87,7 +87,7 @@ E' stata creata dalla Free Software Foundation per distribuire la documentazione
 
 _**Questa Tesi di maturita è stata realizzata con questa licenza **_
 
-\(GNU Free Documentation License 1.2\).
+\(GNU Free Documentation License 1.3\).
 
 * **GNU Affero General Public License \(AGPL\)**
 
