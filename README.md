@@ -1,6 +1,6 @@
 # The Open Source in the Public Administration
 
-[![](https://img.shields.io/badge/Donations-tallycoin-blue.svg)](https://tallyco.in/NazzMass/)
+[![](https://img.shields.io/badge/Donations-tallycoin-blue.svg)](https://tallyco.in/s/8mkxz1/)
 
 > Thesis 2009 by Nazzareno Massari
 
