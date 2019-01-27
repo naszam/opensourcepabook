@@ -1,4 +1,4 @@
-<img src="/assets/500px-free_software_and_open_source_software_composite_logo.svg.png" alt="drawing" align="middle" width="250"/>
+<img src="/assets/500px-free_software_and_open_source_software_composite_logo.svg.png" alt="drawing" align="top" width="200"/>
 
 # The Open Source in the Public Administration
 
