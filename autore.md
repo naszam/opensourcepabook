@@ -1,7 +1,6 @@
 # Autore
 
 [![](https://img.shields.io/badge/Donations-tallycoin-blue.svg)](https://tallyco.in/NazzMass/)
-
 [![Say Thanks!](https://img.shields.io/badge/SayThanks-!-1EAEDB.svg)](https://saythanks.io/to/naszam)
 
 
