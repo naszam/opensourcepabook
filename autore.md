@@ -4,7 +4,7 @@
 [![Say Thanks!](https://img.shields.io/badge/SayThanks-!-1EAEDB.svg)](https://saythanks.io/to/naszam)
 
 
-Il presente libro e' stato realizzato da Nazzareno Massari, autore del wiki e Tesi di Maturita' relativa,  originariamente pubblicata alla pagaina [link](https://theopensourcepa.altervista.org/doku.php?id=open_source).
+Il presente libro e' stato realizzato da Nazzareno Massari, autore del wiki e Tesi di Maturita' relativa,  originariamente pubblicata alla pagina [link](https://theopensourcepa.altervista.org/doku.php?id=open_source).
 
 Il presente libro è stato pubblicato con licenza GNU Free Documention License 1.3, argomento trattato nella tesi.
 
