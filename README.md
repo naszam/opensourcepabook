@@ -1,4 +1,4 @@
-![](/assets/500px-free_software_and_open_source_software_composite_logo.svg.png =250x)
+![](/assets/500px-free_software_and_open_source_software_composite_logo.svg.png =250x250)
 
 # The Open Source in the Public Administration
 
