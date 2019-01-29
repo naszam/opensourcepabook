@@ -9,7 +9,7 @@
 
 ## Usage
 
-Read at Gitbook.com
+Read at GitBook.com
 
 ## Contributing
 
