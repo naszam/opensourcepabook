@@ -8,4 +8,4 @@
 > Thesis 2009 by Nazzareno Massari
 
 ### License
-
+GNU Affero General Public License v3.0
