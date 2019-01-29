@@ -9,8 +9,9 @@
 
 ## Usage
 
-Read at [GitBook](https://legacy.gitbook.com/book/naszam/opensourcepabook/details).
-Available to Download in the following formats: [PDF] [ePub] [MOBI].
+Read opensourcepabook 1st edition at [GitBook](https://legacy.gitbook.com/book/naszam/opensourcepabook/details).
+
+Available to Download in the following formats: PDF|ePub|MOBI.
 
 ## Contributing
 
