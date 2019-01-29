@@ -7,5 +7,20 @@
 
 > Thesis 2009 by Nazzareno Massari
 
+## Install
+
+This project uses TODO. Go check them out if you don't have them locally installed.
+
+```sh
+> $ TODO 
+```
+
+## Usage
+
+```sh
+> $ TODO
+# Prints out the TODO
+```
+
 ### License
 GNU Affero General Public License v3.0
